@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCMTest</string>
+    <string name="msg_token_fmt">fcm token: %s</string>
+    <string name="fcm_test_title">테스트 타이틀</string>
+    <string name="fcm_test_body">테스트 내용</string>
+    <string name="fcm_test_title2">테스트 타이틀: %s %s</string>
+    <string name="fcm_test_body2">테스트 내용: %s %s</string>
+
+</resources>
